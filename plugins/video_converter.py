@@ -48,9 +48,9 @@ async def convert_to_video(bot, update):
         except UserNotParticipant:
             #await update.reply_text(f"Join @{update_channel} To Use Me")
             await update.reply_text(
-                text="**Botun işləməsi üçün aşağıdakı butonla kanala abonə olub,yenidən /start verin.**",
+                text="**Zəhmət olmasa aşağıdakı butonla kanala abonə olub,yenidən /start verin.**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="✅ Doğrulama ✅", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="✅ Kanal ✅", url=f"https://t.me/{update_channel}")]
               ])
             )
             return  

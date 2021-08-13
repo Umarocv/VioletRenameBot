@@ -1,6 +1,7 @@
 ## MT Rename Bot
 📝 Fayl Rename bot Azərbaycan dilinə tərcümə edilmiş.
-login.py fayl -dan modulları və sözləri özünüzə görə dəyişə bilərsiz.
+</p>
+translation.py fayl -dan modulları və sözləri özünüzə görə dəyişə bilərsiz.
 </p>
   </a>
   </a>  

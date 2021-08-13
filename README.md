@@ -54,7 +54,7 @@ Bots Qrupumuz
 </details>
 
 #### Developer Haqqında
-<details><summary>Credits</summary>
+<details><summary>seof</summary>
 <p>
 <pre>
 <p align="middle">

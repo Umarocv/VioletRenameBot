@@ -43,14 +43,14 @@ async def convert_to_video(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry, You are **B A N N E D**")
+               await update.reply_text(" Üzr istəyirik, siz ** B A N N E D **")
                return
         except UserNotParticipant:
             #await update.reply_text(f"Join @{update_channel} To Use Me")
             await update.reply_text(
-                text="**Please Join My Update Channel Before Using Me..**",
+                text="**Botun işləməsi üçün aşağıdakı butonla kanala abonə olub,yenidən /start verin.**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="🔔Join My Updates Channel🔔", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="✅ Doğrulama ✅", url=f"https://t.me/{update_channel}")]
               ])
             )
             return  

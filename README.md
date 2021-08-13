@@ -1,10 +1,6 @@
 ## MT Rename Bot
 📝 Fayl Rename bot Azərbaycan dilinə tərcümə edilmiş.
 </p>
-<p align="center">
-  <a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rename-Bot?style=social">
-
   </a>
   
   <a href="https://github.com/MRK-YT/MT-Rename-Bot/fork">

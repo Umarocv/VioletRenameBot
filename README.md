@@ -1,5 +1,5 @@
 ## MT Rename Bot
-📝 Fayl Soyad dəyişən bot Azərbaycan dilinə tərcümə edilmiş.
+📝 Fayl Rename bot Azərbaycan dilinə tərcümə edilmiş.
 </p>
 <p align="center">
   <a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
@@ -23,7 +23,7 @@ Nümunə Video👇
 
 **[Bax və hazırla...](https://youtu.be/wCB2zbwEguA)**
 
-Deploy To Heroku👇
+Herokuya Deploy 👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot)
 </pre>
 </p>
@@ -45,16 +45,16 @@ Bots Qrupumuz
 </p>
 </details>
 
-<details><summary>An Multi purpose Bot Which Can</summary>
+<details><summary>Çox məqsədli bir bot</summary>
 <p>
 <br>
-✅Rename Telegram Files 
-✅Convert Files into Video
+✅ Telegram Fayllarını Yenidən Adlandırın
+✅ Faylları videoya çevirin
 </pre>
 </p>
 </details>
 
-#### Credits
+#### kreditlər
 <details><summary>Credits</summary>
 <p>
 <pre>

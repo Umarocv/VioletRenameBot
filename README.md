@@ -59,10 +59,10 @@ Bots Qrupumuz
 <pre>
 <p align="middle">
 <img src="https://telegra.ph/file/a082732baac3919fd73bf.jpg" width="100" height="100"><br>
-<img src="https://badgen.net/badge/Name/Seof/FF33FF?icon=awesome&labelColor=0080FF"></a>
-<img src="https://badgen.net/badge/Skills/Python Etc../purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/No-OnE-Kn0wS-Me"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
-<a href="https://github.com/No-OnE-Kn0wS-Me"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
+<img src="https://badgen.net/badge/Nickname/Seof/FF33FF?icon=awesome&labelColor=0080FF"></a>
+<img src="https://badgen.net/badge/Bacarıq/Python Etc../purple?icon=terminal&labelColor=red"></a>
+<a href="https://telegram.dog/SeofC"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
+<a href="https://github.com/Aykhan121"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
 <a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <p align="left">
 </p> 

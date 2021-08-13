@@ -23,8 +23,7 @@ Nümunə Video👇
 
 **[Bax və hazırla...](https://youtu.be/wCB2zbwEguA)**
 
-Herokuya Deploy 👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot)
+
 </pre>
 </p>
 </details>

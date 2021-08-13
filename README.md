@@ -69,45 +69,10 @@ Bots Qrupumuz
 <p align="left">
 </p> 
                                                                                                              
-[![Gıthub Profilini Ac? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/No-OnE-Kn0wS-Me/FILERENAMEBOT)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/No-OnE-Kn0wS-Me)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/No-OnE-Kn0wS-Me)
-[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/Mai_bOTs)
+[![Gıthub Profilini Ac? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/aykhan121/VioletRenameBot)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/SeofC)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/SeofC)
+[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/GraphsaBots)
 
-## Credits, and Thanks to Beloved Developers ;
+## Repodan isdifadə elədiyin üçün təşəkkür dostum;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell) 
-* [Yoily](https://telegram.dog/YoilyL)
-* [Anand](https://telegram.dog/Anandpskerala)
-</pre>
-</p>
-</details>
-
-#### Dev Details
-<details><summary>Dev Details 👤:</summary>
-<p>
-<pre>
-<p align="middle">
-<img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="100" height="100"><br>
-<img src="https://badgen.net/badge/Name/Mrk YT/FF33FF?icon=awesome&labelColor=0080FF"></a>
-<img src="https://badgen.net/badge/Skills/😞/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/MRK_yt"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
-<a href="https://github.com/MRK-YT"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<a href="https://Instagram.com/mrk_yt_"><img src="https://badgen.net/badge/Follow%20on%20/Instagram/80FF00?icon=Instagram&labelColor=black"></a>
-<p align="left">
-</p>                                                           
-                                                    
-[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/mrk_yt)
-[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/mo_Tech_yt)
-
-Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
-   
-Report Bugs, Give Feature Requests There..   
-Do Fork And Star The Repository If You Liked It.
-</pre>
-</p>
-</deCredits>

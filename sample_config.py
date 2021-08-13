@@ -1,22 +1,22 @@
 import os
 
 class Config(object):
-    # get a token from @BotFather
-    TG_BOT_TOKEN = os.environ.get("1889385401:AAGOOAzdKXZZprF-KN5LySiK2vSeoSj00T8", "1889385401:AAGOOAzdKXZZprF-KN5LySiK2vSeoSj00T8")
-    # The Telegram API things
-    APP_ID = int(os.environ.get("APP_ID", "1983393"))
-    API_HASH = os.environ.get("API_HASH", "ee3f154a26da20b6e9bdc2cc33b8009b")
-    # Update channel for Force Subscribe
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "graphsbots")
+    # BotFatherden Al
+    TG_BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    # my.telegram.org dan al
+    APP_ID = int(os.environ.get("APP_ID", ""))
+    API_HASH = os.environ.get("API_HASH", "")
+    # yenilik kanalini yaz
+    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
     # log channel
     #LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "")
-    # Get these values from my.telegram.org
-    CHAT_ID = os.environ.get("CHAT_ID", "-1001570610010")
-    # Array to store users who are authorized to use the bot
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "1844259699 1782221797 1111580094 1535662223 1621687538").split())
-    # Banned Unwanted Members..
+    # @SeofC
+    CHAT_ID = os.environ.get("CHAT_ID", "")
+    # Botu isdifade edeceklerin idisini yaz @JasiminsBot
+    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
+    # Banlanan isdifadecileri yaz
     BANNED_USERS = []
-    # the download location, where the HTTP Server runs
+    # Altdakilere el vurma elaqe @SeofC
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     # Telegram maximum file upload size
     MAX_FILE_SIZE = 50000000

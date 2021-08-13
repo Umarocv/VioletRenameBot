@@ -53,7 +53,7 @@ Bots Qrupumuz
 </p>
 </details>
 
-#### kreditlər
+#### Developer Haqqında
 <details><summary>Credits</summary>
 <p>
 <pre>

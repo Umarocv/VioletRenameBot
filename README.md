@@ -69,7 +69,7 @@ Bots Qrupumuz
 <p align="left">
 </p> 
                                                                                                              
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/No-OnE-Kn0wS-Me/FILERENAMEBOT)
+[![Gıthub Profilini Ac? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/No-OnE-Kn0wS-Me/FILERENAMEBOT)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/No-OnE-Kn0wS-Me)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/No-OnE-Kn0wS-Me)
 [![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/Mai_bOTs)

@@ -2,10 +2,6 @@
 📝 Fayl Rename bot Azərbaycan dilinə tərcümə edilmiş.
 </p>
   </a>
-  
-  <a href="https://github.com/MRK-YT/MT-Rename-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Rename-Bot?label=Fork&style=social">
-
   </a>  
 </p>
 

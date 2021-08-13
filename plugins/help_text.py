@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K, @No_OnE_Kn0wS_Me & Mrk_YT
+# (c) Shrimadhav U K, @SeofC & @lsmayil
 
 # the logging things
 import logging
@@ -45,13 +45,13 @@ async def help_user(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry, You are **B A N N E D**")
+               await update.reply_text(" Üzr istəyirik, siz **B A N N E D**")
                return
         except UserNotParticipant:
             await update.reply_text(
-                text="**Please Join My Update Channel Before Using Me..**",
+                text="**Zəhmət olmasa Məni İstifadə etməzdən əvvəl Yeniləmə Kanalıma Qoşulun ..**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="Yeniləmə Kanalım", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
@@ -63,11 +63,11 @@ async def help_user(bot, update):
             [
                 [
                     InlineKeyboardButton('📝Rename', callback_data = "rnme"),
-                    InlineKeyboardButton('📂File To Video', callback_data = "f2v")
+                    InlineKeyboardButton('📂Fayla Video', callback_data = "f2v")
                 ],
                 [
-                    InlineKeyboardButton('🎞️Custom Thumbnail', callback_data = "cthumb"),
-                    InlineKeyboardButton('💬About', callback_data = "about")
+                    InlineKeyboardButton('🎞️Xüsusi kiçik şəkil', callback_data = "cthumb"),
+                    InlineKeyboardButton('💬Haqqında', callback_data = "about")
                 ]
             ]
         )
@@ -83,14 +83,14 @@ async def start_me(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry, You are **B A N N E D**")
+               await update.reply_text(" Üzr istəyirik. sən **B A N N E D**")
                return
         except UserNotParticipant:
             #await update.reply_text(f"Join @{update_channel} To Use Me")
             await update.reply_text(
-                text="**Please Join My Update Channel Before Using Me..**",
+                text="**Məni istifadə etməzdən əvvəl Yeniləmə Kanalıma qoşulun.**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="🔔 Join My Updates Channel 🔔", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="🔔 Yenillənmə Kanalım 🔔", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
@@ -99,15 +99,15 @@ async def start_me(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton("🤔Help", callback_data = "ghelp"),
-                        InlineKeyboardButton('Other Bots🤖', url='https://t.me/Mo_Tech_YT/141')
+                        InlineKeyboardButton("🤔Kömək", callback_data = "ghelp"),
+                        InlineKeyboardButton('Digər Botlar🤖', url='https://t.me/GraphsBots')
                 ],
                 [
-                    InlineKeyboardButton('🗣️ Any Doubt', url='https://t.me/Mo_Tech_Group'),
-                    InlineKeyboardButton('Bot Updates 🤖', url='https://t.me/Mo_Tech_YT')
+                    InlineKeyboardButton('🗣️ Hər hansı bir şübhə', url='https://t.me/SeofC'),
+                    InlineKeyboardButton('Bot Yeniləmələri 🤖', url='https://t.me/GraphsBots')
                 ],
                 [
-                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/wCB2zbwEguA')
+                    InlineKeyboardButton('🖥️ Video Dərsliyi 🖥️', url='https://t.me/Seofvideos')
                 ]
             ]
         ),
@@ -125,8 +125,8 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
-                    InlineKeyboardButton("Close 🔐", callback_data = "close")
+                    InlineKeyboardButton('🔙 Geriyə', callback_data = "ghelp"),
+                    InlineKeyboardButton("Bağla 🔐", callback_data = "close")
                 ]
             ]
         )
@@ -138,8 +138,8 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
-                    InlineKeyboardButton("Close 🔐", callback_data = "close")
+                    InlineKeyboardButton('🔙 Geriyə', callback_data = "ghelp"),
+                    InlineKeyboardButton("Bağla 🔐", callback_data = "close")
                 ]
             ]
         )
@@ -165,11 +165,11 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton('📝Rename', callback_data = "rnme"),
-                    InlineKeyboardButton('📂File To Video', callback_data = "f2v")
+                    InlineKeyboardButton('📂Faylı Videoya', callback_data = "f2v")
                 ],
                 [
-                    InlineKeyboardButton('🎞️Custom Thumbnail', callback_data = "cthumb"),
-                    InlineKeyboardButton('💬About', callback_data = "about")
+                    InlineKeyboardButton('🎞️Xüsusi kiçik şəkil', callback_data = "cthumb"),
+                    InlineKeyboardButton('💬Haqqında', callback_data = "about")
                 ]
             ]
         )
@@ -181,12 +181,12 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('👨‍🎓Credits', url="https://t.me/Mai_bOTs"),
-                    InlineKeyboardButton('Editing 👨‍💻', url="https://t.me/Mo_Tech_Group")
+                    InlineKeyboardButton('👨‍🎓Sahib', url="https://t.me/seofc"),
+                    InlineKeyboardButton('Editing 👨‍💻', url="https://t.me/lsmayil")
                 ],
                 [
-                    InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
-                    InlineKeyboardButton("Close 🔐", callback_data = "close")
+                    InlineKeyboardButton('🔙 Geriyə', callback_data = "ghelp"),
+                    InlineKeyboardButton("Bağla 🔐", callback_data = "close")
                 ]
             ]
         )

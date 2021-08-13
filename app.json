@@ -1,5 +1,5 @@
 {
-  "name": "Violet Rename",
+  "name": "Botunuzun adi,
   "description": "",
   "keywords": [
     "telegram",
@@ -8,41 +8,41 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/MO_TECH_GROUP",
-  "website": "https://github.com/MoTechYT",
-  "repository": "https://github.com/MRK-YT/MT-Rename-Bot",
+  "success_url": "https://t.me/SeofC,
+  "website": "https://github.com/aykhan121",
+  "repository": "https://github.com/aykhan121/VioletRenameBot",
   "env": {
     "WEBHOOK": {
-      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "description": "BUNA EL VURMA",
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "1889385401:AAGOOAzdKXZZprF-KN5LySiK2vSeoSj00T8",
-      "value": "1889385401:AAGOOAzdKXZZprF-KN5LySiK2vSeoSj00T8"
+      "description": "Botunuzun Tokeni",
+      "value": ""
     },
     "UPDATE_CHANNEL": {
-      "description": "graphsbots",
-      "value": "graphsbots"
+      "description": "Yenilik Kanalini yaz @-siz -@GraphsBots",
+      "value": "s"
     },
     "APP_ID": {
-      "description": "1983393",
-      "value": "1983393"
+      "description": "api yazin my.telegram.org dan al",
+      "value": ""
     },
     "API_HASH": {
-      "description": "ee3f154a26da20b6e9bdc2cc33b8009b",
-      "value": "ee3f154a26da20b6e9bdc2cc33b8009b"
+      "description": "api hash yazin my.telegram.org dan al",
+      "value": "e"
     },
     "AUTH_USERS": {
-      "description": "1844259699 1782221797 1535662223 1621687538",
-      "value": "1844259699 1782221797 1535662223 1621687538"
+      "description": "botu isdifade edenlerin idisini yaz -@JasminsBot",
+      "value": ""
     },
     "BANNED_USERS": {
-      "description": "Banned Unwanted members..",
+      "description": "Banlamaq isdediyiniz userleri yazin",
       "value": "",
       "required": false
     },
     "CHUNK_SIZE": {
-      "description": "chunk size that should be used with requests",
+      "description": " BUNDA SONRAKILARA EL DEYME",
       "value": "128",
       "required": false
     }

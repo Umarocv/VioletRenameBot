@@ -1,2 +1,2 @@
 # VioletRenameBot
-Telegram File Rename Bot Azərbaycanca
+Telegram fayl adı dəyiştərən bot Azərbaycanca tərcümə edilmiş.

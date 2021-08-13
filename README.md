@@ -16,7 +16,7 @@
 ##### Deploy
 Bu botu hər yerdə yerləşdirə bilərsiniz
 
-<details><summary>Qurma videosu{Xaricilərin videosu}</summary>
+<details><summary>Qurma videosu</summary>
 <p>
 <pre>
 Nümunə Video👇
@@ -28,7 +28,7 @@ Nümunə Video👇
 </p>
 </details>
 
-**[ Deploy videosuna bax...](https://youtu.be/wCB2zbwEguA)**
+**[Demo Bot](https://youtu.be/wCB2zbwEguA)**
 
 
 <details><summary>Hər hansı bir səhv</summary>

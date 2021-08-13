@@ -14,33 +14,33 @@
 </p>
 
 ##### Deploy
-You can deploy this bot anywhere.
+Bu botu hər yerdə yerləşdirə bilərsiniz
 
-<details><summary>Deploy To Heruko</summary>
+<details><summary>Qurma videosu{Xaricilərin videosu}</summary>
 <p>
 <pre>
-Tutorial Video👇
+Nümunə Video👇
 
-**[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
+**[Bax və hazırla...](https://youtu.be/wCB2zbwEguA)**
 
-Deploy To Hereku👇
+Deploy To Heroku👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot)
 </pre>
 </p>
 </details>
 
-**[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
+**[ Deploy videosuna bax...](https://youtu.be/wCB2zbwEguA)**
 
 
-<details><summary>Any Bugs</summary>
+<details><summary>Hər hansı bir səhv</summary>
 <p>
 <pre>
-If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through
+Hər hansı bir səhv tapsanız və ya geribildiriminizi bildirmək istəsəniz, mənimlə əlaqə saxlayın.
 
-[Telegram](https://telegram.dog/No_OnE_Kn0wS_Me) 
+[Telegram](https://telegram.dog/SeofC) 
 
-Also Support Our
-[Mo Tech YT](https://telegram.dog/Mo_Tech_YT) 
+Bots Qrupumuz
+[Graphs Team](https://telegram.dog/GraphsBots) 
 </pre>
 </p>
 </details>

@@ -1,6 +1,6 @@
 {
-  "name": "MT Rename Bot",
-  "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
+  "name": "Violet Rename",
+  "description": "",
   "keywords": [
     "telegram",
     "best",
@@ -17,24 +17,24 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
-      "value": ""
+      "description": "1889385401:AAGOOAzdKXZZprF-KN5LySiK2vSeoSj00T8",
+      "value": "1889385401:AAGOOAzdKXZZprF-KN5LySiK2vSeoSj00T8"
     },
     "UPDATE_CHANNEL": {
-      "description": "For Force Subscribe. Paste your Update channel USERNAME (without @).. Also Make The Bot Admin In That Channel!! ",
-      "value": ""
+      "description": "graphsbots",
+      "value": "graphsbots"
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org & @MT_MyTelegramOrg_Bot",
-      "value": ""
+      "description": "1983393",
+      "value": "1983393"
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org & @MT_MyTelegramOrg_Bot",
-      "value": ""
+      "description": "ee3f154a26da20b6e9bdc2cc33b8009b",
+      "value": "ee3f154a26da20b6e9bdc2cc33b8009b"
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot & @MT_SHOWJSON_BOT",
-      "value": ""
+      "description": "1844259699 1782221797 1535662223 1621687538",
+      "value": "1844259699 1782221797 1535662223 1621687538"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",

@@ -62,7 +62,7 @@ Bots Qrupumuz
 <img src="https://badgen.net/badge/Nickname/Seof/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Bacarıq/Python Etc../purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/SeofC"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
-<a href="https://github.com/Aykhan121"><img src="https://badgen.net/badge/Takib%20et%20/Github/80FF00?icon=github&labelColor=black"></a>
+<a href="https://github.com/Aykhan121"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
 <a href="https://youtube.com/channel/UCCQNW6-kjZx5dkvXpqBfIqQ
 17"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <a href="https://Instagram.com/umarocv"><img src="https://badgen.net/badge/Follow%20on%20/Instagram/80FF00?icon=Instagram&labelColor=black"></a>

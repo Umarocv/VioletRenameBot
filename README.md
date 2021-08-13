@@ -1,5 +1,5 @@
 ## MT Rename Bot
-
+📝 Fayl Soyad dəyişən bot Azərbaycan dilinə tərcümə edilmiş.
 </p>
 <p align="center">
   <a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
